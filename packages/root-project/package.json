@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "gatsby": "^2.21.9",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-pnpm": "^1.2.5",
     "gatsby-theme-project": "0.1.0",
     "react": "^16.12.0",
